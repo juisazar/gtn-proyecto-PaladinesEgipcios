@@ -5,7 +5,7 @@
 | Campo | Valor |
 |---|---|
 | Proyecto | [09 · Reservas de laboratorios] |
-| Integrantes | [Miguel Angel Galvis Tores - 1054858621 : Juan Diego Isaza Ramirez - 1054856771 : Samuel Gomez Giraldo - ] |
+| Integrantes | [Miguel Angel Galvis Torres - 1054858621 : Juan Diego Isaza Ramirez - 1054856771 : Samuel Gomez Giraldo - ] |
 | URL demo | https://... |
 | Costo mensual real | USD ... (objetivo: USD ...) |
 | Despliegue | `aws cloudformation deploy --template-file iac/main.yaml --stack-name gtn-[equipo] --capabilities CAPABILITY_NAMED_IAM` |
