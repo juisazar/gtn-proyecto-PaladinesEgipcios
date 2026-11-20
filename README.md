@@ -1,11 +1,11 @@
-# 🏷️ [NOMBRE DEL EQUIPO] — Proyecto [NN]
+# 🏷️ [PALADINES EGIPCIO] — Proyecto [NN]
 
 > **Ficha del caso** — reemplaza este archivo: es la carta de presentación de tu equipo y lo primero que verá el panel en la sustentación.
 
 | Campo | Valor |
 |---|---|
-| Proyecto | [NN — nombre] |
-| Integrantes | [nombres y códigos] |
+| Proyecto | [09 · Reservas de laboratorios] |
+| Integrantes | [Miguel Angel Galvis Tores - 1054858621 | Juan Diego Isaza Ramirez - 1054856771 | Samuel Gomez Giraldo - ] |
 | URL demo | https://... |
 | Costo mensual real | USD ... (objetivo: USD ...) |
 | Despliegue | `aws cloudformation deploy --template-file iac/main.yaml --stack-name gtn-[equipo] --capabilities CAPABILITY_NAMED_IAM` |
