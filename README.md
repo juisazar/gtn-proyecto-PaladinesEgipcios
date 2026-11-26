@@ -1,4 +1,4 @@
-# 🏷️ [PALADINES EGIPCIO] — Proyecto [NN]
+# 🏷️ [PALADINES EGIPCIO] — Proyecto Reserva de Laboratorios
 
 > **Ficha del caso** — reemplaza este archivo: es la carta de presentación de tu equipo y lo primero que verá el panel en la sustentación.
 
