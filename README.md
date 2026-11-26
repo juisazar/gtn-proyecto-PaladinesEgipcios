@@ -7,7 +7,7 @@
 | Proyecto | 09 · Reservas de laboratorios |
 | Integrantes | Miguel Angel Galvis Torres - 1054858621 : Juan Diego Isaza Ramirez - 1054856771 : Samuel Gomez Giraldo - 1054859384  |
 | URL demo | https://... |
-| Costo mensual real | USD ... (objetivo: USD ...) |
+| Costo mensual real | USD ≤ 12 |
 | Despliegue | `aws cloudformation deploy --template-file iac/main.yaml --stack-name gtn-[equipo] --capabilities CAPABILITY_NAMED_IAM` |
 
 ## 🏗️ Arquitectura
